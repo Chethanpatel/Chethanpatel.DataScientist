@@ -4,10 +4,10 @@ Welcome to my Data Science Portfolio repository. I am Chethan Patel, a passionat
 
 ## 📚 Navigation
 
-- [About]([(https://chethanpatel.netlify.app/#about])
-- [Experience](#experience)
-- [Projects](#projects)
-- [Contact](#contact)
+- [About](https://chethanpatel.netlify.app/#about)
+- [Experience](https://chethanpatel.netlify.app/#experience)
+- [Projects](https://chethanpatel.netlify.app/#projects)
+- [Contact](https://chethanpatel.netlify.app/#contact)
 
 ## 📋 Sections
 
